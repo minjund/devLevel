@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f26de2f-e3e6-4be2-999f-8be58db65781" name="Default Changelist" comment="idea 기본 셋팅">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3f26de2f-e3e6-4be2-999f-8be58db65781" name="Default Changelist" comment="server띄우기" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603805830720</updated>
       <workItem from="1603805832820" duration="1558000" />
-      <workItem from="1603808173959" duration="493000" />
+      <workItem from="1603808173959" duration="567000" />
     </task>
     <task id="LOCAL-00001" summary="idea 기본 셋팅">
       <created>1603806893018</created>
@@ -69,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603806893018</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="server띄우기">
+      <created>1603895819883</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603895819883</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,7 +94,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="idea 기본 셋팅" />
-    <option name="LAST_COMMIT_MESSAGE" value="idea 기본 셋팅" />
+    <MESSAGE value="server띄우기" />
+    <option name="LAST_COMMIT_MESSAGE" value="server띄우기" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603807789593">
@@ -102,10 +108,14 @@
     </state>
     <state x="120" y="143" width="1200" height="566" key="DiffContextDialog/0.23.1440.804@0.23.1440.804" timestamp="1603807459114" />
     <state x="120" y="143" width="1200" height="566" key="DiffContextDialog/0.23.1440.806@0.23.1440.806" timestamp="1603895769197" />
-    <state x="320" y="166" key="Vcs.Push.Dialog.v2" timestamp="1603806894822">
+    <state x="320" y="166" key="Vcs.Push.Dialog.v2" timestamp="1603895824102">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state x="320" y="166" key="Vcs.Push.Dialog.v2/0.23.1440.806@0.23.1440.806" timestamp="1603806894822" />
+    <state x="320" y="166" key="Vcs.Push.Dialog.v2/0.23.1440.806@0.23.1440.806" timestamp="1603895824102" />
+    <state x="499" y="166" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1603895796113">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="499" y="166" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.23.1440.806@0.23.1440.806" timestamp="1603895796113" />
     <state x="518" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603895227575">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
