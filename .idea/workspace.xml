@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f26de2f-e3e6-4be2-999f-8be58db65781" name="Default Changelist" comment="server띄우기" />
+    <list default="true" id="3f26de2f-e3e6-4be2-999f-8be58db65781" name="Default Changelist" comment="server띄우기">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +64,9 @@
       <updated>1603805830720</updated>
       <workItem from="1603805832820" duration="1558000" />
       <workItem from="1603808173959" duration="567000" />
+      <workItem from="1603896961085" duration="35000" />
+      <workItem from="1603896998999" duration="99000" />
+      <workItem from="1604225297388" duration="1935000" />
     </task>
     <task id="LOCAL-00001" summary="idea 기본 셋팅">
       <created>1603806893018</created>

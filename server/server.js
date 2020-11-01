@@ -1,11 +1,11 @@
 const express = require('express');
 const app = express();
 const port = process.env.PORT || 3000;
-const router = express.Router();
 
-router.get('/', (err, res) => {
-    res.send("aa");
+app.get('/',function(req,res){
+    res.send('Hellow world');
 })
+
 app.listen(port,err=>{
     if(err){
         console.log("에러나여");
