@@ -1,10 +1,9 @@
 const express = require('express');
 const app = express();
 const port = process.env.PORT || 3000;
+const read = require('./../router/router');
 
-app.get('/',function(req,res){
-    res.send('Hellow world');
-})
+app.use(read);
 
 app.listen(port,err=>{
     if(err){

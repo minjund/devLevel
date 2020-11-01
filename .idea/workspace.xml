@@ -19,10 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f26de2f-e3e6-4be2-999f-8be58db65781" name="Default Changelist" comment="server띄우기">
+    <list default="true" id="3f26de2f-e3e6-4be2-999f-8be58db65781" name="Default Changelist" comment="리액트 셋팅">
+      <change afterPath="$PROJECT_DIR$/contoller/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router/router.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
   </component>
   <component name="ProjectId" id="1jSmNgCpsIyjGxtI1LN4JwGyfzf" />
   <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -52,6 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -66,7 +67,7 @@
       <workItem from="1603808173959" duration="567000" />
       <workItem from="1603896961085" duration="35000" />
       <workItem from="1603896998999" duration="99000" />
-      <workItem from="1604225297388" duration="1935000" />
+      <workItem from="1604225297388" duration="3358000" />
     </task>
     <task id="LOCAL-00001" summary="idea 기본 셋팅">
       <created>1603806893018</created>
@@ -82,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603895819883</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="리액트 셋팅">
+      <created>1604243355432</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604243355432</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,23 +111,31 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="idea 기본 셋팅" />
     <MESSAGE value="server띄우기" />
-    <option name="LAST_COMMIT_MESSAGE" value="server띄우기" />
+    <MESSAGE value="리액트 셋팅" />
+    <option name="LAST_COMMIT_MESSAGE" value="리액트 셋팅" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603807789593">
-      <screen x="0" y="23" width="1440" height="804" />
+    <state x="184" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604244495799">
+      <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state x="184" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.804@0.23.1440.804" timestamp="1603807789593" />
     <state x="184" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.806@0.23.1440.806" timestamp="1603807166034" />
+    <state x="184" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.812@0.23.1440.812" timestamp="1604243990623" />
+    <state x="184" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.814@0.23.1440.814" timestamp="1604244495799" />
     <state x="120" y="143" width="1200" height="566" key="DiffContextDialog" timestamp="1603895769197">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="120" y="143" width="1200" height="566" key="DiffContextDialog/0.23.1440.804@0.23.1440.804" timestamp="1603807459114" />
     <state x="120" y="143" width="1200" height="566" key="DiffContextDialog/0.23.1440.806@0.23.1440.806" timestamp="1603895769197" />
-    <state x="320" y="166" key="Vcs.Push.Dialog.v2" timestamp="1603895824102">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state x="221" y="66" key="SettingsEditor" timestamp="1604244541605">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="221" y="66" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1604244541605" />
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2" timestamp="1604243362371">
+      <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="320" y="166" key="Vcs.Push.Dialog.v2/0.23.1440.806@0.23.1440.806" timestamp="1603895824102" />
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.811@0.23.1440.811" timestamp="1604243362371" />
     <state x="499" y="166" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1603895796113">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
@@ -129,5 +145,9 @@
     </state>
     <state x="518" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.804@0.23.1440.804" timestamp="1603807395849" />
     <state x="518" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.806@0.23.1440.806" timestamp="1603895227575" />
+    <state x="385" y="159" width="670" height="676" key="search.everywhere.popup" timestamp="1604243983124">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="385" y="159" width="670" height="676" key="search.everywhere.popup/0.23.1440.812@0.23.1440.812" timestamp="1604243983124" />
   </component>
 </project>
